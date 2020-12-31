@@ -16,7 +16,7 @@ body {
   height: 50px;
   width: 100%;
   position: fixed;
-  background-color: grey;
+  background-color: rgb(152, 221, 107);
   display: flex;
   justify-content: center;
 }
@@ -27,7 +27,7 @@ body {
   font-size: 25px;
   position: relative;
   top: 5px;
-  background-color: rgb(82, 82, 82);
+  background-color: rgb(19, 133, 199);
   color: white;
   padding: 5px;
   border-radius: 5px;
@@ -58,7 +58,7 @@ body {
 }
 
 .active-tool > span {
-  background-color: rgb(82, 82, 82);
+  background-color: rgb(152, 221, 107);
   border-radius: 5px;
   padding: 2.5px 16px;
   color: white;
@@ -76,7 +76,7 @@ body {
 }
 
 .brush {
-  background-color: rgb(114, 114, 114);
+  background-color: rgb(152, 221, 107);
   height: 44px;
   width: 345px;
 }
